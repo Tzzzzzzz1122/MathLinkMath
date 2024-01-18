@@ -1,5 +1,6 @@
-# ThingsOfHistory
-![Simulator Screenshot - iPhone 15 - 2024-01-18 at 09 05 24](https://github.com/Tzzzzzzz1122/ThingsOfHistory/assets/156974030/ab1af8af-77b2-4bf1-8baa-ea874922a4cf)
+# ThingsOfHistory![Simulator Screenshot - iPhone 15 - 2024-01-18 at 09 05 24](https://github.com/Tzzzzzzz1122/ThingsOfHistory/assets/156974030/7c753be7-df44-43f9-88ff-e284baf80c98)
+
+
 A historical Q&amp;A game
 
 A very simple, stunning, and ad free application with world history, historical figures, and more.
